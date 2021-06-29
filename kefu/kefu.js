@@ -7,7 +7,7 @@ $(function(){
     content +='<div id="close_im" class="close-im"><a href="javascript:void(0);" title="点击关闭">&nbsp;</a></div>';
     content +='<a href="https://openai.weixin.qq.com/webapp/lEEkDwSGGj8byyOqyyUrKuP9p57Ykk?robotName=%E5%9C%A8%E7%BA%BF%E5%AE%A2%E6%9C%8D" target="_blank" class="im-qq qq-a" title="在线客服">';
     content +='<div class="qq-container"></div>';
-    content +='<div class="qq-hover-c"><img class="img-qq" src="//img.newsaas.cn/html/kf/images/qq.png"></div>';
+    content +='<div class="qq-hover-c"><img class="img-qq" src="https://cdn.jsdelivr.net/gh/1000gcc/1000gcc.github.io@master/kefu/images/qq.png"></div>';
     content +='<span>客服</span>';
     content +='</a>';
     content +='<div class="im-tel">';
@@ -18,7 +18,7 @@ $(function(){
     content +='<div class="weixing-container">';
     content +='<div class="weixing-show">';
     content +='<div class="weixing-txt" style="font-size:13px;">微信扫一扫<br>关注公众号<br><br><a href="https://www.newsaas.cn" target="_blank" title="欢迎关注梧州新云网络">新云网络</a></div>';
-    content +='<img class="weixing-ma" src="//img.newsaas.cn/html/kf/images/qr_gzh.jpg">';
+    content +='<img class="weixing-ma" src="https://cdn.jsdelivr.net/gh/1000gcc/1000gcc.github.io@master/kefu/images/qr_gzh.jpg">';
     content +='<div class="weixing-sanjiao"></div>';
     content +='<div class="weixing-sanjiao-big"></div>';
     content +='</div>';
