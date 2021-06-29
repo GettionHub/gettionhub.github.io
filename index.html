@@ -153,5 +153,39 @@
 		</div>
 	</section>
 </body>
+<script>
+	window.addEventListener("scroll", function (e) {
+		if (document.documentElement.scrollTop > window.innerHeight * 1.5 && window.planEvent != true) {
+			let waitTime = 0;
+			document.querySelectorAll(".plans .plan").forEach((el) => {
+				setTimeout(() => {
+					el.classList.add("animated-up");
+				}, waitTime);
+				waitTime += 100;
+			});
 
+			document.querySelector(".board-price .plans").scrollLeft = 270;
+			window.planEvent = true;
+		}
+		if (document.documentElement.scrollTop > window.innerHeight * 0.75) {
+			document.querySelector("#demovideo").classList.add("animated-up");
+			if (window.videoPlayed != true) {
+				document.querySelector("#demovideo").play();
+				window.videoPlayed = true;
+			}
+		}
+	});
+	window.comnameClicked = 0;
+	document.querySelector("#comname").addEventListener("mousedown", function (e) {
+		if (window.comnameClicked > 3) {
+			e.target.innerHTML = "\u5357\u4eac\u556a\u56db\u4e03\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8";
+		} else {
+			window.comnameClicked++;
+		}
+	});
+	joinusEl = document.querySelector("#joinusbtn");
+	joinusEl.addEventListener("mousedown", function (e) {
+		window.open("https://www.bilibili.com/video/BV1va411w7aM");
+	});
+</script>
 </html>
