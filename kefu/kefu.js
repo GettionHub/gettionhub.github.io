@@ -55,7 +55,7 @@ $(function(){
 //	定时关闭
   setTimeout(function () {
     $('#im_main').hide();
-  },5000);
+  },3000);
       //    关闭小球，防止遮挡
   $('.close-ball').bind('click', function() {
     if ($('.close-ball').hasClass('show')) {
