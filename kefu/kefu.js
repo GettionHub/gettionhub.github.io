@@ -11,8 +11,10 @@ $(function(){
     content +='<span>客服</span>';
     content +='</a>';
     content +='<div class="im-tel">';
+    content +='<div>QQ群号:</div>';
+    content +='<div class="tel-num">18980535</div>';
     content +='<div>梧州新云网络</div>';
-    content +='<div class="tel-num"><a href="https://www.newsaas.cn" target="_blank" title="新云网络：newsaas.cn">[官网]</a><a href="https://blog.1000g.cc" target="_blank" style="margin-left:5px;" title="千稿博客：1000g.cc">[博客]</a></div>';
+    content +='<div class="tel-num"><a href="https://www.newsaas.cn" target="_blank" title="新云网络：newsaas.cn">[官网]</a><a href="https://blog.1000g.cc" target="_blank" style="margin-left:5px;" title="千稿博客：1000g.cc">[博客]</a><br /><a href="https://jq.qq.com/?_wv=1027&k=TVJyVb7F" target="_blank" style="margin-left:5px;" title="点击查看">聪明的同学点这里</a></div>';
     content +='</div>';
     content +='<div class="im-footer" style="position:relative">';
     content +='<div class="weixing-container">';
