@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '网站监控工具',
 
   // 站点链接
   SiteUrl: '/',
