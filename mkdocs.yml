@@ -1,12 +1,12 @@
 site_name: MatsuriDayo
-site_url: https://matsuridayo.github.io/
-repo_url: https://github.com/MatsuriDayo/matsuridayo.github.io
+site_url: https://gettionhub.github.io/
+repo_url: https://github.com/GettionHub/gettionhub.github.io
 edit_uri: ""
 repo_name: 文档
 copyright: CC BY-SA 4.0
 theme:
   name: material
-  logo: https://matsuridayo.github.io/assets/images/matsuri1.jpg
+  logo: https://gettionhub.github.io/assets/images/matsuri1.jpg
   palette:
     - scheme: default
       primary: indigo
