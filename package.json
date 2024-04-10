@@ -1,0 +1,21 @@
+{
+  "name": "HomePage",
+  "version": "1.0.5",
+  "description": "CLOUDWATCHER",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GettionHub/gettionhub.github.io.git"
+  },
+  "keywords": [
+    "CLOUDWATCHER",
+    "HomePage"
+  ],
+  "author": "CLOUDWATCHER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GettionHub/gettionhub.github.io/issues"
+  },
+  "homepage": "https://github.com/GettionHub/gettionhub.github.io#readme"
+}
