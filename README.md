@@ -1,7 +1,3 @@
-[![Version](https://img.shields.io/github/package-json/v/dmego/home.github.io)](https://www.npmjs.com/package/dmego-home-page)
-[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.cn.svg)](http://i.dmego.cn/)
-[![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
 
 ### 个人主页
 
@@ -13,19 +9,10 @@
 
 >借鉴了[北岛向南的小屋](https://javef.github.io/)的头像样式
 
-### 效果图
-
->静态图
-
-![主页JPG](https://unpkg.com/dmego-home-page@latest/assets/img/home.jpg)
-
->动态图
-
-![主页GIF](https://unpkg.com/dmego-home-page@latest/assets/img/home.gif)
 
 ### 注
 
-- 访问地址：[个人主页](http://i.dmego.cn/)
+- 访问地址：[个人主页](https://gettionhub.github.io/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 - ~~使用了 [Bing 壁纸 API](https://github.com/xCss/bing/) 服务~~
 - ~~使用了 [Yahoo Query Language (YQL)](https://developer.yahoo.com/yql/) 来解决获取 Bing 壁纸跨域问题~~
@@ -52,8 +39,3 @@
   - 移除 Jquery 依赖，使用原生 JS
 - 2023-08-28
   - 将壁纸地址换成 cn.bing.com
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
-
